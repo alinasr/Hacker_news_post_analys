@@ -1,4 +1,4 @@
-# Hacker_news_post_analys
+# Hacker_news_post_analysis
 Hacker News post mining for show HN and Ask HN posts
 Hacker News is a site where user-submitted stories (known as "posts") are voted and commented upon.
 
